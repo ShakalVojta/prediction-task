@@ -1,0 +1,16 @@
+{
+  "name": "prediction-task",
+  "version": "1.0.0",
+  "description": "Solve the prediction task with Node.js and ML.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "forecast": "^0.3.2"
+  }
+}
